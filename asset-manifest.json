@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SPAVEL/static/css/main.1bd9805b.chunk.css",
+    "main.js": "/SPAVEL/static/js/main.3e99aa3a.chunk.js",
+    "main.js.map": "/SPAVEL/static/js/main.3e99aa3a.chunk.js.map",
+    "runtime-main.js": "/SPAVEL/static/js/runtime-main.6b8478b5.js",
+    "runtime-main.js.map": "/SPAVEL/static/js/runtime-main.6b8478b5.js.map",
+    "static/js/2.bdd4efea.chunk.js": "/SPAVEL/static/js/2.bdd4efea.chunk.js",
+    "static/js/2.bdd4efea.chunk.js.map": "/SPAVEL/static/js/2.bdd4efea.chunk.js.map",
+    "index.html": "/SPAVEL/index.html",
+    "static/css/main.1bd9805b.chunk.css.map": "/SPAVEL/static/css/main.1bd9805b.chunk.css.map",
+    "static/js/2.bdd4efea.chunk.js.LICENSE.txt": "/SPAVEL/static/js/2.bdd4efea.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SPAVEL/static/media/naboo-nature.f5d7e6b9.jpg",
+    "static/media/earth-winter.3aa201e3.jpg": "/SPAVEL/static/media/earth-winter.3aa201e3.jpg",
+    "static/media/HeroSection.css": "/SPAVEL/static/media/img-home.72303dba.jpg",
+    "static/media/space-ship.65ade30b.jpg": "/SPAVEL/static/media/space-ship.65ade30b.jpg",
+    "static/media/theed.d89ef46a.png": "/SPAVEL/static/media/theed.d89ef46a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b8478b5.js",
+    "static/js/2.bdd4efea.chunk.js",
+    "static/css/main.1bd9805b.chunk.css",
+    "static/js/main.3e99aa3a.chunk.js"
+  ]
+}
