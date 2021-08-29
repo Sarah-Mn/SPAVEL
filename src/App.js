@@ -16,7 +16,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/SPAVEL/' exact component={Home} />
+          <Route path='/SPAVEL' exact component={Home} />
           <Route path='/SPAVEL/services'  component={Services} />
           <Route path='/SPAVEL/products'  component={Products} />
           <Route path='/SPAVEL/sign-up'  component={SignUp} />
