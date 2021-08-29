@@ -16,10 +16,10 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/SPAVEL' exact component={Home} />
-          <Route path='/SPAVEL/services'  component={Services} />
-          <Route path='/SPAVEL/products'  component={Products} />
-          <Route path='/SPAVEL/sign-up'  component={SignUp} />
+          <Route path='/' exact component={Home} />
+          <Route path='/services'  component={Services} />
+          <Route path='/products'  component={Products} />
+          <Route path='/sign-up'  component={SignUp} />
         </Switch>
 
         <Footer />
